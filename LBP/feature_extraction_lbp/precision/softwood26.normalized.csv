@@ -1,0 +1,17 @@
+KNN (K = 7);0.590766
+Serialize (SVM, Decision Tree, KNN);0.500338
+Decision Tree;0.503491
+Voting (Soft);0.592117
+Bagging (Nayve Bayes);0.213176
+Serialize (SVM, NayveBayes, KNN);0.545946
+Bagging (KNN);0.572185
+KNN (default);0.610473
+Decision Tree Log;0.447748
+KNN (K = 3);0.629730
+Voting (Hard);0.589077
+Bagging (SVM);0.663063
+Decision Tree (Sqrt);0.437613
+Random Forests (Default);0.578604
+Nayve Bayes;0.535698
+SVM (C = 32, RBF, Gamma = 0.5);0.769369
+Bagging (Decision Tree);0.545495
